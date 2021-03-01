@@ -1,0 +1,6 @@
+F:\学习文件\Ioc\Solution1\Ruanmou.Framework\bin\Debug\Ruanmou.Framework.dll
+F:\学习文件\Ioc\Solution1\Ruanmou.Framework\bin\Debug\Ruanmou.Framework.pdb
+F:\学习文件\Ioc\Solution1\Ruanmou.Framework\obj\Debug\Ruanmou.Framework.csprojAssemblyReference.cache
+F:\学习文件\Ioc\Solution1\Ruanmou.Framework\obj\Debug\Ruanmou.Framework.csproj.CoreCompileInputs.cache
+F:\学习文件\Ioc\Solution1\Ruanmou.Framework\obj\Debug\Ruanmou.Framework.dll
+F:\学习文件\Ioc\Solution1\Ruanmou.Framework\obj\Debug\Ruanmou.Framework.pdb

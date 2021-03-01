@@ -1,0 +1,9 @@
+F:\学习文件\Ioc\Solution1\DLL\bin\Debug\DLL.dll
+F:\学习文件\Ioc\Solution1\DLL\bin\Debug\DLL.pdb
+F:\学习文件\Ioc\Solution1\DLL\bin\Debug\IDLL.dll
+F:\学习文件\Ioc\Solution1\DLL\bin\Debug\IDLL.pdb
+F:\学习文件\Ioc\Solution1\DLL\obj\Debug\DAL.csprojAssemblyReference.cache
+F:\学习文件\Ioc\Solution1\DLL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\学习文件\Ioc\Solution1\DLL\obj\Debug\DAL.csproj.CopyComplete
+F:\学习文件\Ioc\Solution1\DLL\obj\Debug\DLL.dll
+F:\学习文件\Ioc\Solution1\DLL\obj\Debug\DLL.pdb

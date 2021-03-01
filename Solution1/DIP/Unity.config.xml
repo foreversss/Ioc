@@ -1,0 +1,17 @@
+﻿<configuration>
+  <configSections>
+    <section name="unity" type="Microsoft.Practices.Unity.Configuration.UnityConfigurationSection,Unity.Configuration" />
+  </configSections>
+
+  <unity>
+    <container name="testContainer">
+      <register type="Ruanmou.Interface.IPhone,Ruanmou.Interface" mapTo="Ruanmou.Service.AndroidPhone,Ruanmou.Service"></register>
+      <register type="Ruanmou.Interface.IMicrophone,Ruanmou.Interface" mapTo="Ruanmou.Service.Microphone,Ruanmou.Service"></register>
+      <register type="Ruanmou.Interface.IPower,Ruanmou.Interface" mapTo="Ruanmou.Service.Power,Ruanmou.Service"></register>
+      <register type="Ruanmou.Interface.IHeadphone,Ruanmou.Interface" mapTo="Ruanmou.Service.Headphone,Ruanmou.Service"></register>
+      <register type="Ruanmou.Interface.IPhone,Ruanmou.Interface" mapTo="Ruanmou.Service.ApplePhone,Ruanmou.Service" name="applephone"></register>
+      <register type="Ruanmou.Interface.IPhone,Ruanmou.Interface" mapTo="Ruanmou.Service.AndroidPhone,Ruanmou.Service" name="androidphone"></register>
+    </container>
+  </unity>
+  
+</configuration>

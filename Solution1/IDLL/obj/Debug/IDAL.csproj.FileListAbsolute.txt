@@ -1,0 +1,5 @@
+F:\学习文件\Ioc\Solution1\IDLL\bin\Debug\IDLL.dll
+F:\学习文件\Ioc\Solution1\IDLL\bin\Debug\IDLL.pdb
+F:\学习文件\Ioc\Solution1\IDLL\obj\Debug\IDAL.csproj.CoreCompileInputs.cache
+F:\学习文件\Ioc\Solution1\IDLL\obj\Debug\IDLL.dll
+F:\学习文件\Ioc\Solution1\IDLL\obj\Debug\IDLL.pdb
